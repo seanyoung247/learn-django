@@ -26,7 +26,7 @@ SECRET_KEY = '84rpsa@r%o#(g2+x-6lv2^h!yz*e82(%!rt16kky(=m#5tdu5x'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://sy-todo-app.herokuapp.com']
+ALLOWED_HOSTS = ['sy-todo-app.herokuapp.com']
 
 
 # Application definition
